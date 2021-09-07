@@ -1,7 +1,7 @@
 **[Recapitulate]**<br>
 일반 문장과 발음열 문장 txt 파일 검수 중, 일반 문장에만 적용된 '//' 기호를 동일한 발음열 문장에 삽입하기 위함<br>
 
-**[Requiremnets]**
+**[Requiremnets]**<br>
  pip install tk
  
   **[Detail]**<br>
