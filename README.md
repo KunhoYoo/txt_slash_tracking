@@ -10,6 +10,7 @@
  2. "적용할 파일 호출" = '//' 기호를 적용시킬 발음열 문장 txt 파일 호출<br>
  3. "시작" = Start<br> <br>
  
-**[version]**<br>
+**[Version]**<br>
+python 3.7.6 = OK<br>
 pydub 0.25.1 = OK
 
